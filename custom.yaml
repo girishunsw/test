@@ -1,6 +1,6 @@
-train: /home/ubuntu/YOLOv7/yolov7/train/
-test: /home/ubuntu/YOLOv7/yolov7/test/
-val: /home/ubuntu/YOLOv7/yolov7/valid/
+train: kaggle/working/yolov7/train/
+test: kaggle/working/yolov7/test/
+val: kaggle/working/yolov7/valid/
 #Classes
 nc: 2 # replace according to your number of classes
 #classes names
