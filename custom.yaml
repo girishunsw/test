@@ -1,6 +1,6 @@
 train: train/
 test: test/
-val: valid/
+val: val/
 #Classes
 nc: 2 # replace according to your number of classes
 #classes names
