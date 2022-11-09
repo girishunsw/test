@@ -1,6 +1,6 @@
-train: kaggle/working/yolov7/train/
-test: kaggle/working/yolov7/test/
-val: kaggle/working/yolov7/valid/
+train: train/
+test: test/
+val: valid/
 #Classes
 nc: 2 # replace according to your number of classes
 #classes names
