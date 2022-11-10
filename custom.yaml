@@ -1,8 +1,8 @@
-train: train/
-test: test/
-val: val/
+train: /kaggle/working/test2/prep/train/
+test: /kaggle/working/test2/prep/test/
+val: /kaggle/working/test2/prep/val/
 #Classes
-nc: 2 # replace according to your number of classes
+nc: 1 # replace according to your number of classes
 #classes names
 #replace all class names list with your classes names
-names: ['cotfish','cotfish1']
+names: ['cotfish']
