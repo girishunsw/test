@@ -1,6 +1,6 @@
-train: /kaggle/working/test2/prep/train/
-test: /kaggle/working/test2/prep/test/
-val: /kaggle/working/test2/prep/val/
+train: /content/test2/prep/train/
+test: /content/test2/prep/test/
+val: /content/test2/prep/val/
 #Classes
 nc: 1 # replace according to your number of classes
 #classes names
